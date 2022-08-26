@@ -1,11 +1,20 @@
-Hi, I'm @andresjpb
+# Hi, I'm @andresjpb
 
 I'm interested in software development, both front-end and back-end, and exploring new tecnologies that solve the needs of people.
 
 I'm currently learning about artificial intelligence but I haven't chosen a specific topic to work on, I'm exploring the library OpenCV and its amazing results.
 
+```
 I'm looking to collaborate on agile and innovative projects.
+```
+
+## Contact
 
 How to reach me? easy, www.andresjpulido.com
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/intent/tweet?text=Wow:&url=https://www.linkedin.com/in/andresjpulido/)
+ 
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fandresjpb)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fandresjpulido%2Fandresjpulido)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://twitter.com/intent/tweet?text=Wow:&url=https://medium.com/@andresjpulido)
+
+ 
