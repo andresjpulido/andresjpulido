@@ -8,6 +8,11 @@ I'm currently learning about artificial intelligence but I haven't chosen a spec
 I'm looking to collaborate on agile and innovative projects.
 ```
 
+## Last Blog Post
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andresjpulido/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andresjpulido/0" alt="Recent Article"> </a>
+
+
 ## Contact
 
 How to reach me? easy, www.andresjpulido.com
