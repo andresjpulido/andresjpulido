@@ -1,11 +1,14 @@
 # Hi, I'm @andresjpb
 
-I'm interested in software development, both front-end and back-end, and exploring new tecnologies that solve the needs of people.
+👋 A seasoned software developer with over a decade of experience in the world of coding. I'm deeply passionate about technology and consider myself a lifelong learner, always eager to explore new horizons in the ever-evolving tech landscape.
+
+I love web development, both front-end and back-end, problem-solving challenges, and the joy of turning ideas into working software solutions.
 
 I'm currently learning about artificial intelligence but I haven't chosen a specific topic to work on, I'm exploring the library OpenCV and its amazing results.
 
 ```
-I'm looking to collaborate on agile and innovative projects.
+🚀 Let's connect and collaborate on exciting projects, share knowledge, and continue this incredible journey of technology and creativity together. Feel free to reach out, and let's make the digital world a better place one line of code at a time!
+
 ```
 
 ## Last Blog Post
