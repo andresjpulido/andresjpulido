@@ -9,8 +9,7 @@ I'm currently learning about artificial intelligence but I haven't chosen a spec
 ```
 🚀 Let's connect and collaborate on exciting projects, share knowledge,
 and continue this incredible journey of technology and creativity together.
-Feel free to reach out,
-and let's make the digital world a better place one line of code at a time!
+Feel free to reach out, and let's make the digital world a better place one line of code at a time!
 
 ```
 
