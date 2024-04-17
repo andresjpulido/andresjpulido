@@ -17,6 +17,9 @@ Feel free to reach out, and let's make the digital world a better place one line
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andresjpulido/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andresjpulido/0" alt="Recent Article"> </a>
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andresjpulido/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andresjpulido/1" alt="Recent Article"> </a>
+
+
 
 ## On github
 
